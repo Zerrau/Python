@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4a5a8af0-8573-4e60-b2c4-1737bf5cb892" name="Default Changelist" comment="" />
+    <list default="true" id="4a5a8af0-8573-4e60-b2c4-1737bf5cb892" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +15,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1TkLBWhYTVuW4uU5028iN6e7bfl" />
   <component name="ProjectViewState">
@@ -42,12 +47,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/untitled3/venv/Include" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../untitled3/venv/Include" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/PycharmProjects/untitled3/venv/Include/Selenium.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../untitled3/venv/Include/Selenium.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,6 +166,7 @@
       <workItem from="1575999531355" duration="26000" />
       <workItem from="1576035815500" duration="4678000" />
       <workItem from="1576085768082" duration="1404000" />
+      <workItem from="1577969541306" duration="70000" />
     </task>
     <servers />
   </component>
@@ -168,6 +174,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="709" y="296" key="FileChooserDialogImpl" timestamp="1577969609651">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="709" y="296" key="FileChooserDialogImpl/-1768.0.1706.992/0.0.1858.1080/1982.8.962.768@0.0.1858.1080" timestamp="1577969609651" />
     <state width="1815" height="289" key="GridCell.Tab.0.bottom" timestamp="1576086414276">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
@@ -209,6 +219,6 @@
     <SUITE FILE_PATH="coverage/Python$wait.coverage" NAME="wait Coverage Results" MODIFIED="1576086414259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selenium" />
     <SUITE FILE_PATH="coverage/Python$asd.coverage" NAME="asd Coverage Results" MODIFIED="1575953716961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$____.coverage" NAME="Програми(стов,ста,ст)говнокод Coverage Results" MODIFIED="1573999187445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python$Selenium.coverage" NAME="Selenium Coverage Results" MODIFIED="1576086406821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/untitled3/venv/Include" />
+    <SUITE FILE_PATH="coverage/Python$Selenium.coverage" NAME="Selenium Coverage Results" MODIFIED="1576086406821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../untitled3/venv/Include" />
   </component>
 </project>
